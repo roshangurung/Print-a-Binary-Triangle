@@ -1,0 +1,11 @@
+C:\Users\Roshan Gurung\OneDrive\Desktop\GITHUB\Print a Binary Triangle\Print a Binary Triangle\bin\Debug\netcoreapp2.1\Print a Binary Triangle.deps.json
+C:\Users\Roshan Gurung\OneDrive\Desktop\GITHUB\Print a Binary Triangle\Print a Binary Triangle\bin\Debug\netcoreapp2.1\Print a Binary Triangle.runtimeconfig.json
+C:\Users\Roshan Gurung\OneDrive\Desktop\GITHUB\Print a Binary Triangle\Print a Binary Triangle\bin\Debug\netcoreapp2.1\Print a Binary Triangle.runtimeconfig.dev.json
+C:\Users\Roshan Gurung\OneDrive\Desktop\GITHUB\Print a Binary Triangle\Print a Binary Triangle\bin\Debug\netcoreapp2.1\Print a Binary Triangle.dll
+C:\Users\Roshan Gurung\OneDrive\Desktop\GITHUB\Print a Binary Triangle\Print a Binary Triangle\bin\Debug\netcoreapp2.1\Print a Binary Triangle.pdb
+C:\Users\Roshan Gurung\OneDrive\Desktop\GITHUB\Print a Binary Triangle\Print a Binary Triangle\obj\Debug\netcoreapp2.1\Print a Binary Triangle.csprojAssemblyReference.cache
+C:\Users\Roshan Gurung\OneDrive\Desktop\GITHUB\Print a Binary Triangle\Print a Binary Triangle\obj\Debug\netcoreapp2.1\Print a Binary Triangle.csproj.CoreCompileInputs.cache
+C:\Users\Roshan Gurung\OneDrive\Desktop\GITHUB\Print a Binary Triangle\Print a Binary Triangle\obj\Debug\netcoreapp2.1\Print a Binary Triangle.AssemblyInfoInputs.cache
+C:\Users\Roshan Gurung\OneDrive\Desktop\GITHUB\Print a Binary Triangle\Print a Binary Triangle\obj\Debug\netcoreapp2.1\Print a Binary Triangle.AssemblyInfo.cs
+C:\Users\Roshan Gurung\OneDrive\Desktop\GITHUB\Print a Binary Triangle\Print a Binary Triangle\obj\Debug\netcoreapp2.1\Print a Binary Triangle.dll
+C:\Users\Roshan Gurung\OneDrive\Desktop\GITHUB\Print a Binary Triangle\Print a Binary Triangle\obj\Debug\netcoreapp2.1\Print a Binary Triangle.pdb
